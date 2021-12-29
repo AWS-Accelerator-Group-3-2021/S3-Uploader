@@ -1,0 +1,4 @@
+secrets.py
+botoAWS/
+__pycache__/
+.DS_Store
